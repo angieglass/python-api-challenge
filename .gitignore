@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+#Config with my api keys 
+config.py
 
 #MAC files 
 .DS_Store
