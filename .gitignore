@@ -8,6 +8,7 @@ __pycache__/
 
 #Config with my api keys 
 config.py
+api_keys.py
 
 #MAC files 
 .DS_Store
